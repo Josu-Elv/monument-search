@@ -1,0 +1,79 @@
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:14:20"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:14:20"}
+{"level":"info","message":"GET /","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /css/styles.css","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /js/map.js","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /js/app.js","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /images/background.jpg","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /favicon.ico","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"warn","message":"Archivo no encontrado: /favicon.ico","service":"monument-search","timestamp":"2024-12-22 11:14:25"}
+{"level":"info","message":"GET /api/search?query=estatua%20del%20encierro","service":"monument-search","timestamp":"2024-12-22 11:14:30"}
+{"level":"info","message":"Buscando monumentos para: estatua del encierro","service":"monument-search","timestamp":"2024-12-22 11:14:30"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:14:30"}
+{"level":"info","message":"GET /api/search?query=estatua%20del%20encierro","service":"monument-search","timestamp":"2024-12-22 11:14:33"}
+{"level":"info","message":"Buscando monumentos para: estatua del encierro","service":"monument-search","timestamp":"2024-12-22 11:14:33"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:14:33"}
+{"level":"info","message":"GET /api/search?query=sagrada%20familia","service":"monument-search","timestamp":"2024-12-22 11:14:40"}
+{"level":"info","message":"Buscando monumentos para: sagrada familia","service":"monument-search","timestamp":"2024-12-22 11:14:40"}
+{"level":"info","message":"Encontrados 10 resultados","service":"monument-search","timestamp":"2024-12-22 11:14:41"}
+{"level":"info","message":"GET /","service":"monument-search","timestamp":"2024-12-22 11:18:16"}
+{"level":"info","message":"GET /css/styles.css","service":"monument-search","timestamp":"2024-12-22 11:18:16"}
+{"level":"info","message":"GET /js/map.js","service":"monument-search","timestamp":"2024-12-22 11:18:16"}
+{"level":"info","message":"GET /js/app.js","service":"monument-search","timestamp":"2024-12-22 11:18:16"}
+{"level":"info","message":"GET /images/background.jpg","service":"monument-search","timestamp":"2024-12-22 11:18:16"}
+{"level":"info","message":"GET /api/search?query=estatua%20del%20encierro","service":"monument-search","timestamp":"2024-12-22 11:18:20"}
+{"level":"info","message":"Buscando monumentos para: estatua del encierro","service":"monument-search","timestamp":"2024-12-22 11:18:20"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:18:21"}
+{"level":"info","message":"GET /api/search?query=estatua%20al%20encierro","service":"monument-search","timestamp":"2024-12-22 11:18:29"}
+{"level":"info","message":"Buscando monumentos para: estatua al encierro","service":"monument-search","timestamp":"2024-12-22 11:18:29"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:18:30"}
+{"level":"info","message":"GET /api/search?query=torre%20eiffel","service":"monument-search","timestamp":"2024-12-22 11:18:36"}
+{"level":"info","message":"Buscando monumentos para: torre eiffel","service":"monument-search","timestamp":"2024-12-22 11:18:36"}
+{"level":"info","message":"Encontrados 1 resultados","service":"monument-search","timestamp":"2024-12-22 11:18:36"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:20:36"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:20:36"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:20:46"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:20:46"}
+{"level":"info","message":"GET /api/search?query=torre%20eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:38"}
+{"level":"info","message":"Buscando monumentos para: torre eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:38"}
+{"level":"info","message":"Encontrados 1 resultados","service":"monument-search","timestamp":"2024-12-22 11:21:38"}
+{"level":"info","message":"GET /api/search?query=torre%20eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:40"}
+{"level":"info","message":"Buscando monumentos para: torre eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:40"}
+{"level":"info","message":"Encontrados 1 resultados","service":"monument-search","timestamp":"2024-12-22 11:21:40"}
+{"level":"info","message":"GET /","service":"monument-search","timestamp":"2024-12-22 11:21:41"}
+{"level":"info","message":"GET /css/styles.css","service":"monument-search","timestamp":"2024-12-22 11:21:41"}
+{"level":"info","message":"GET /js/map.js","service":"monument-search","timestamp":"2024-12-22 11:21:41"}
+{"level":"info","message":"GET /js/app.js","service":"monument-search","timestamp":"2024-12-22 11:21:41"}
+{"level":"info","message":"GET /images/background.jpg","service":"monument-search","timestamp":"2024-12-22 11:21:41"}
+{"level":"info","message":"GET /api/search?query=torre%20eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:45"}
+{"level":"info","message":"Buscando monumentos para: torre eiffel","service":"monument-search","timestamp":"2024-12-22 11:21:45"}
+{"level":"info","message":"Encontrados 1 resultados","service":"monument-search","timestamp":"2024-12-22 11:21:45"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:22:34"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:22:34"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:22:44"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:22:44"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:22:53"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:22:53"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:23:01"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:23:01"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:23:09"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:23:10"}
+{"level":"info","message":"Base de datos sincronizada","service":"monument-search","timestamp":"2024-12-22 11:23:19"}
+{"level":"info","message":"Servidor corriendo en http://localhost:3000","service":"monument-search","timestamp":"2024-12-22 11:23:19"}
+{"level":"info","message":"GET /","service":"monument-search","timestamp":"2024-12-22 11:23:31"}
+{"level":"info","message":"GET /css/styles.css","service":"monument-search","timestamp":"2024-12-22 11:23:31"}
+{"level":"info","message":"GET /js/map.js","service":"monument-search","timestamp":"2024-12-22 11:23:31"}
+{"level":"info","message":"GET /js/app.js","service":"monument-search","timestamp":"2024-12-22 11:23:31"}
+{"level":"info","message":"GET /images/background.jpg","service":"monument-search","timestamp":"2024-12-22 11:23:31"}
+{"level":"info","message":"GET /api/search?query=torre%20eiffel","service":"monument-search","timestamp":"2024-12-22 11:23:34"}
+{"level":"info","message":"Buscando monumentos para: torre eiffel","service":"monument-search","timestamp":"2024-12-22 11:23:34"}
+{"level":"info","message":"Encontrados 1 resultados","service":"monument-search","timestamp":"2024-12-22 11:23:34"}
+{"level":"info","message":"GET /api/search?query=estatua%20del%20encierro","service":"monument-search","timestamp":"2024-12-22 11:23:50"}
+{"level":"info","message":"Buscando monumentos para: estatua del encierro","service":"monument-search","timestamp":"2024-12-22 11:23:50"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:23:50"}
+{"level":"info","message":"GET /api/search?query=estatua%20del%20encierro","service":"monument-search","timestamp":"2024-12-22 11:23:51"}
+{"level":"info","message":"Buscando monumentos para: estatua del encierro","service":"monument-search","timestamp":"2024-12-22 11:23:51"}
+{"level":"info","message":"Encontrados 0 resultados","service":"monument-search","timestamp":"2024-12-22 11:23:52"}
+{"level":"info","message":"GET /api/search?query=monumento%20al%20encierro","service":"monument-search","timestamp":"2024-12-22 11:24:09"}
+{"level":"info","message":"Buscando monumentos para: monumento al encierro","service":"monument-search","timestamp":"2024-12-22 11:24:09"}
+{"level":"info","message":"Encontrados 2 resultados","service":"monument-search","timestamp":"2024-12-22 11:24:09"}

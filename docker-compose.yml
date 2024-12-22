@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: monuments-db
+    environment:
+      POSTGRES_USER: monuments_user
+      POSTGRES_PASSWORD: monuments_password
+      POSTGRES_DB: monuments
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - monuments-network
+
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: monuments-app
+    environment:
+      - NODE_ENV=development
+      - PGUSER=monuments_user
+      - PGHOST=db
+      - PGPASSWORD=monuments_password
+      - PGDATABASE=monuments
+      - PGPORT=5432
+      - PORT=3000
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    depends_on:
+      - db
+    networks:
+      - monuments-network
+    command: npm run dev
+
+volumes:
+  postgres_data:
+
+networks:
+  monuments-network:
+    driver: bridge
